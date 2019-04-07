@@ -12,5 +12,5 @@ https://truffleframework.com/boxes/tutorialtoken
 
 # Repos
 
-https://github.com/TylerSanford/-Open_Zeppelin_Testing.git
+https://github.com/TylerSanford/Open_Zeppelin_Testing.git
 https://github.com/HectorZarate/openzepplin_sandbox
